@@ -1,10 +1,9 @@
-### Olá! Eu sou o Matheus! 🖐️
+### Matheus Brandao
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-dbrandao/)
 
 - 🔭 Atualmente estou em busca de estagio.
 - 🎓 Estou no 4 semestre de Engenharia de Software
-- 🌱 Estudando Java.
 
 ### Tecnologias que tenho conhecimento:
 
